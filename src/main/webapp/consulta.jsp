@@ -31,7 +31,7 @@
                 border-radius: 8px;
                 box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
                 width: 80%;
-                max-width: 800px; /* Ajusté el ancho máximo para esta sección */
+                max-width: 800px;
             }
 
             h1 {
@@ -88,7 +88,6 @@
                 margin-bottom: 8px;
             }
 
-            /* Estilos específicos para la consulta de usuarios */
             .form-group {
                 margin-bottom: 15px;
             }
@@ -131,7 +130,7 @@
             .resultado-busqueda {
                 margin-top: 20px;
                 padding: 15px;
-                background-color: #2c3e50; /* Un tono de azul oscuro para el resultado */
+                background-color: #2c3e50;
                 border-radius: 4px;
             }
 
@@ -139,7 +138,7 @@
                 color: #64b5f6;
                 margin-top: 0;
                 margin-bottom: 10px;
-                text-align: left; /* Alinear el título del resultado a la izquierda */
+                text-align: left; 
             }
 
             table {
@@ -156,12 +155,12 @@
             }
 
             th {
-                background-color: #34495e; /* Un tono de azul más oscuro para las cabeceras */
+                background-color: #34495e;
                 color: #fff;
             }
 
             .not-found {
-                color: #e74c3c; /* Rojo para el mensaje de "no encontrado" */
+                color: #e74c3c;
                 background-color: #c0392b;
                 padding: 10px;
                 border-radius: 4px;
